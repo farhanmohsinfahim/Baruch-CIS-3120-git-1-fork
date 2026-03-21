@@ -21,4 +21,4 @@ This file lists all the amazing students contributing to our class's Git/GitHub 
 
 ## Student Entries:
 <!-- Students: Add your entries below this line! -->
-
+- **Orest Kikina** (GitHub: okikina1): My favorite movie is Peaky Blinders!
