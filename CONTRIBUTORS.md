@@ -9,6 +9,7 @@ This file lists all the amazing students contributing to our class's Git/GitHub 
 1.  **Fork** this repository to your own GitHub account.
 2.  **Clone** your forked repository to your local computer.
 3.  **Edit this `CONTRIBUTORS.md` file** by adding your entry.
+**[Ashiana Rabbani]** (GitHub: [ashianarabbani01]): My favorite movie is [The A-Team]
 4.  **Save** your changes.
 5.  **Stage** and **commit** your changes locally.
 6.  **Push** your changes to your forked repository on GitHub.
