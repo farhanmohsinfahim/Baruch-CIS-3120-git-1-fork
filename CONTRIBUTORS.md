@@ -22,6 +22,9 @@ This file lists all the amazing students contributing to our class's Git/GitHub 
 
 ## Student Entries: 
 <!-- Students: Add your entries below this line! -->
+
+- **Ibrahim Kidwai** (GitHub: ibrahkidwai-cyber): My favorite movie is Spider-Man 3
+
 **Kamronbek Ortikov** (GitHub: kama4444): My favorite movie is Inception
 -**Richard Burton** (GitHub: richardburton1991-del): My favorite movie is Hero
 - **Elias Brouk** (GitHub: eliasbrouk0): My favorite
